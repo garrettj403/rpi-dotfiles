@@ -12,6 +12,7 @@ git clone https://github.com/garrettj403/rpi-dotfiles.git ~/.dotfiles
 To install:
 ```bash
 sh ~/.dotfiles/link.sh
+cat ~/.dotfiles/append-to-bashrc.txt >> ~/.bashrc
 ```
 
 Guides:
