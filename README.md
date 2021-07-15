@@ -13,6 +13,7 @@ To install:
 ```bash
 sh ~/.dotfiles/link.sh
 cat ~/.dotfiles/append-to-bashrc.txt >> ~/.bashrc
+source ~/.bashrc
 ```
 
 Guides:
