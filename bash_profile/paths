@@ -10,8 +10,5 @@ alias docs="cd ~/Documents"
 
 alias dot="cd ~/.dotfiles"
 
-#alias gd="cd ~/GoogleDrive"
-#alias gdrive="cd ~/GoogleDrive"
-
 export PATH="$HOME/.dotfiles/git/bin:$PATH"
-export PATH="$HOME/GoogleDrive/Projects/QMix/bin:$PATH"
+
